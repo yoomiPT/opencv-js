@@ -1,7 +1,7 @@
 {
-  "name": "@techstark/opencv-js",
-  "version": "4.8.0-release.10",
-  "description": "OpenCV JavaScript version for node.js or browser",
+  "name": "@yoomiPT/opencv-js",
+  "version": "1.0.0",
+  "description": "Downsized OpenCV JavaScript version for node.js or browser",
   "main": "dist/opencv.js",
   "types": "dist/src/index.d.ts",
   "files": [
