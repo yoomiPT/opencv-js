@@ -1,5 +1,5 @@
 {
-  "name": "@yoomiPT/opencv-js",
+  "name": "opencv-js-warp-affine",
   "version": "1.0.0",
   "description": "Downsized OpenCV JavaScript version for node.js or browser",
   "main": "dist/opencv.js",
